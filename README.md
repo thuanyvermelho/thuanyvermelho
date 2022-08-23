@@ -1,11 +1,7 @@
 ## Olá, me chamo Thuany ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-Sou estudante curiosa arriscando no mundo da programação e analise dados para transição de carreira. 
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/104110519/184387127-be73a389-941a-4dc4-9a53-dc26661290a2.gif" width="300" height="250">
-</p>
+Estudante curiosa em transição de carreira.
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <div>
