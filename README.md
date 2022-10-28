@@ -28,7 +28,7 @@ Estudante curiosa em transição de carreira.
 <div>
 <a href ="mailto:thuanyvermelho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
 target="_blank"></a>
-<a href="https://www.linkedin.com/in/thuany-vermelho-966ab56a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="[https://www.linkedin.com/in/thuanyvermelho/](https://www.linkedin.com/in/thuanyvermelho/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
           
           
