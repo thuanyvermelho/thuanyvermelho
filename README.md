@@ -1,7 +1,7 @@
 ## Olá, me chamo Thuany ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-Estadante amante de tecnologia em transisação de carreira. Hoje estou estudando e me aperfeiçoando na area de Quality Assurance.
+Estadante amante de tecnologia em transição de carreira. Hoje estou estudando e me aperfeiçoando na area de Quality Assurance.
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <div>
