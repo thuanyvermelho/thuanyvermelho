@@ -1,9 +1,9 @@
 ## Olá, me chamo Thuany ! Bem vindo ao meu perfil GitHub 👋
 
-## Sobre mim
+## 💫 Sobre mim
 
-Sou um Analista de Dados apaixonado por transformar dados em insights acionáveis. Atualmente, estou trabalhando como Analista de Dados, onde sou responsável por coletar, limpar, analisar e visualizar dados para fornecer informações estratégicas que ajudam a empresa a tomar decisões informadas.
-
+Sou uma estudante entusiasta em engenheira de dados. Atualmente, estou trabalhando como analista de dados e em constante aprendizado sobre ETL, análise e visualização de dados.</a>   
+Postarei meus projetos de estudos dos cursos e meus projetos pessoais que me permitem aplicar meus conhecimentos e expandir minhas habilidades.</a>   
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
