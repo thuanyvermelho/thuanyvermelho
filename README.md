@@ -3,7 +3,7 @@
 ## 💫 Sobre mim
 
 Sou uma estudante entusiasta em engenheira de dados. Atualmente, estou trabalhando como analista de dados e em constante aprendizado sobre ETL, análise e visualização de dados.</a>   
-Postarei meus projetos de estudos dos cursos e meus projetos pessoais que me permitem aplicar meus conhecimentos e expandir minhas habilidades.</a>   
+Postarei alguns projetos de estudos dos cursos e projetos pessoais que me permitem expandir minhas habilidades.</a>   
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
@@ -15,13 +15,12 @@ Postarei meus projetos de estudos dos cursos e meus projetos pessoais que me per
 
 ## Projetos
 
-- [Projeto 1](https://github.com/seuusuario/projeto1): Descrição do projeto.
-- [Projeto 2](https://github.com/seuusuario/projeto2): Descrição do projeto.
-- [Projeto 3](https://github.com/seuusuario/projeto3): Descrição do projeto.
+## Categoria - Criação de Data Warehouse e análise das vendas
+- [Projeto 1](https://github.com/thuanyvermelho/Data_Warehouse): Implementação de uma Data Warehouse.       
+- [Projeto 2](https://github.com/seuusuario/projeto3): Análise das vendas de veiculos.
+- [Projeto 3](https://github.com/seuusuario/projeto3): Descrição dos leads.
 
-        
-          
-####
+         
    
 #### 📩 Contatos:
 
