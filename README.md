@@ -16,7 +16,7 @@ Postarei alguns projetos de estudos dos cursos e projetos pessoais que me permit
 ## Projetos
 
 ## Categoria - Criação de Data Warehouse e análise das vendas
-- [Projeto 1](https://github.com/thuanyvermelho/Data_Warehouse): Implementação de uma Data Warehouse.       
+- [Projeto 1](https://github.com/thuanyvermelho/Data_Warehouse_Pentaho): Implementação de uma Data Warehouse.       
 - [Projeto 2](https://github.com/seuusuario/projeto3): Análise das vendas de veiculos.
 - [Projeto 3](https://github.com/seuusuario/projeto3): Descrição dos leads.
 
