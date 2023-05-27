@@ -17,7 +17,7 @@ Postarei alguns projetos de estudos dos cursos e projetos pessoais que me permit
 
 ### Criação de Data Warehouse e análise das vendas + leads
 - [Projeto 1](https://github.com/thuanyvermelho/Data_Warehouse_Pentaho): Implementação de uma Data Warehouse com a ferramenta Pentaho PDI.       
-- [Projeto 2](https://github.com/seuusuario/Analise_Vendas_SQL): Análise das vendas de veiculos e descrição dos leads com ETL em SQL e dataviz em Excel.
+- [Projeto 2](https://github.com/thuanyvermelho/Analise_Vendas_SQL): Análise das vendas de veiculos e descrição dos leads com ETL em SQL e dataviz em Excel.
 
 
          
