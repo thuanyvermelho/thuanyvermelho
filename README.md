@@ -2,8 +2,9 @@
 
 ## 💫 Sobre mim
 
-Sou uma estudante entusiasta em engenheira de dados. Atualmente, estou trabalhando como analista de dados e em constante aprendizado sobre ETL, análise e visualização de dados.</a>   
-Postarei alguns projetos de estudos dos cursos e projetos pessoais que me permitem expandir minhas habilidades.</a>   
+Sou uma entusiasta em engenharia de dados e estou sempre em busca de aprimorar minhas habilidades nessa área. Atualmente, trabalho como analista de dados e estou constantemente aprendendo sobre ETL (Extract, Transform, Load) e processos de integração de dados.
+
+No meu perfil do GitHub, você encontrará projetos relacionados aos cursos que estou fazendo e também projetos pessoais nos quais estou trabalhando para expandir minhas habilidades.
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
