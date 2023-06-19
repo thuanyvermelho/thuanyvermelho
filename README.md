@@ -9,16 +9,16 @@ No meu perfil do GitHub, você encontrará projetos relacionados aos cursos que 
 ### 🖥️ Tecnologias e Ferramentas: 
 
 - Linguagens de programação: SQL e Python
-- Ferramentas de Visualização de Dados: Power BI, Matplotlib, Seaborn
+- Ferramentas de Visualização de Dados: Excel, Python (Matplotlib e Seaborn), Power BI, 
 - Bancos de Dados: MySQL e PostgreSQL
 - Análise de Dados: Excel, SQL, Pandas e Numpy
 - Data Warehouse: Pentaho PDI
 
 ## Projetos
 
-### Criação de Data Warehouse e análise das vendas + leads
-- [Projeto 1](https://github.com/thuanyvermelho/Data_Warehouse_Pentaho): Implementação de uma Data Warehouse com a ferramenta Pentaho PDI.       
-- [Projeto 2](https://github.com/thuanyvermelho/Analise_Vendas_SQL): Análise das vendas de veiculos e descrição dos leads com ETL em SQL e dataviz em Excel.
+### Criação de Data Warehouse e análise das vendas + leads  
+- [Projeto 1](https://github.com/thuanyvermelho/Analise_Vendas_SQL): Análise das vendas de veiculos e descrição dos leads com ETL em SQL e dataviz em Excel.
+- [Projeto 2](https://github.com/thuanyvermelho/Data_Warehouse_Pentaho): Implementação de uma Data Warehouse com a ferramenta Pentaho PDI.   
 
 
          
