@@ -2,9 +2,9 @@
 
 ## 💫 Sobre mim
 
-Sou uma entusiasta em engenharia de dados e estou sempre em busca de aprimorar minhas habilidades nessa área. Atualmente, trabalho como analista de dados e estou constantemente aprendendo sobre ETL (Extract, Transform, Load) e processos de integração de dados.
+Sou uma entusiasta em engenharia de dados e estou em constante busca por aprimorar minhas habilidades nessa área. Atualmente, exerço a função de analista de dados, onde mergulho diariamente no universo do ETL e ELT.
 
-No meu perfil do GitHub, você encontrará projetos relacionados aos cursos que estou fazendo e também projetos pessoais nos quais estou trabalhando para expandir minhas habilidades.
+Aqui no meu GitHub, você encontrará uma coleção de projetos que refletem minha jornada de aprendizado contínuo. Incluo tanto projetos relacionados aos cursos que estou realizando quanto projetos pessoais que me desafiam a expandir minhas habilidades.
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
@@ -17,7 +17,7 @@ No meu perfil do GitHub, você encontrará projetos relacionados aos cursos que 
 ## Projetos
 
 ### Criação de Data Warehouse e análise das vendas + leads  
-- [Projeto 1](https://github.com/thuanyvermelho/Analise_Vendas_SQL): Análise das vendas de veiculos e descrição dos leads com ETL em SQL e dataviz em Excel.
+- [Projeto 1](https://github.com/thuanyvermelho/Analise_Vendas_SQL): Análise das vendas de veiculos e descrição dos leads com análise em SQL e dataviz em Excel.
 - [Projeto 2](https://github.com/thuanyvermelho/Data_Warehouse_Pentaho): Implementação de uma Data Warehouse com a ferramenta Pentaho PDI.   
 
 
