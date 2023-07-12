@@ -15,10 +15,8 @@ Aqui no meu GitHub, você encontrará uma coleção de projetos que refletem min
 - Data Warehouse: Pentaho PDI
 
 ## Projetos
-
-### Criação de Data Warehouse e análise das vendas + leads  
 - [Projeto 1](https://github.com/thuanyvermelho/Analise_Vendas_SQL): Análise das vendas de veiculos e descrição dos leads com análise em SQL e dataviz em Excel.
-- [Projeto 2](https://github.com/thuanyvermelho/Data_Warehouse_Pentaho): Implementação de uma Data Warehouse com a ferramenta Pentaho PDI.   
+- [Projeto 2](https://github.com/thuanyvermelho/Data_Mart_Pentaho): Implementação de um Data Mart - Marketing com a ferramenta Pentaho PDI.   
 
 
          
