@@ -10,13 +10,13 @@ Se der uma olhada nos meus projetos aqui no GitHub, vai encontrar um mix de desa
 
 🖥️ Tecnologias e Ferramentas:
 
-Bancos de Dados: MySQL e PostgreSQL
-Análise de Dados: Excel, SQL, Pandas ,Numpy e Spark
-Linguagens de programação: SQL e Python
-Cloud Computing: Google Cloud Platform (GCP) e AWS
-Modelagem e Transformação: dbt e Python(polars)
-Data Lakehouse: GCP 
-Orquestração de Pipelines: Apache Airflow
+- Bancos de Dados: MySQL e PostgreSQL
+- Análise de Dados: Excel, SQL, Pandas ,Numpy e Spark
+- Linguagens de programação: SQL e Python
+- Cloud Computing: Google Cloud Platform (GCP) e AWS
+- Modelagem e Transformação: dbt e Python(polars)
+- Data Lakehouse: GCP 
+- Orquestração de Pipelines: Apache Airflow
 
 
 ## Projetos
