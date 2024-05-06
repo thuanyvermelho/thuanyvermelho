@@ -24,7 +24,7 @@ Se der uma olhada nos meus projetos aqui no GitHub, vai encontrar um mix de desa
 - [Projeto 2](https://github.com/thuanyvermelho/Data_Mart_Pentaho): Implementação de um Data Mart - Marketing com a ferramenta Pentaho PDI.
 - [Projeto 3](https://github.com/thuanyvermelho/ProjetoBI_completo/tree/1-Desenvolvimento-do-Banco-de-Dados-e-Consultas-SQL-Avan%C3%A7adas): Desenvolvimento do Banco de Dados e Consultas SQL Avançadas.
 - [Projeto 4](https://github.com/thuanyvermelho/ProjetoBI_completo/tree/2-Implementando_DataWarehouse): Implementando um Data Warehouse com Python.    
-- [Projeto 5](https://github.com/thuanyvermelho/projeto_gcp_batch_dataflow_bigquery): Projeto ETL na GCP utilizando Apache beam com Dataflow, Bigquery e Looker Studio.
+- [Projeto 5](https://github.com/thuanyvermelho/projeto_gcp_batch_dataflow_bigquery): Projeto ELT na GCP utilizando Apache beam com Dataflow, Bigquery e Looker Studio.
  
 
          
