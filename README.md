@@ -2,21 +2,7 @@
 
 ## 💫 Sobre mim
 
-E aí, pessoal! Atualmente, sou engenheira de dados e em busca de maneiras de aprimorar minhas habilidades nessa área de dados e ja estou na minha segunda transição na area de tecnologia. 
-
-Além de lidar com códigos e dados, sou a pessoa que trabalha nos bastidores orquestrando pipelines. Uso o Apache Airflow para garantir que tudo funcione evitando imprevistos, tornando a jornada dos dados tão suave quanto possível. A grande novidade é que, no momento, estou imersa no estudo do dbt (data build tool), buscando aprimorar a forma como transformamos dados em nossos pipelines.
-
-Se der uma olhada nos meus projetos aqui no GitHub, vai encontrar um mix de desafios que enfrentei durante minha jornada de aprendizado. Desde projetos ligados a cursos até iniciativas pessoais, cada um deles representa um passo significativo na minha trajetória de crescimento.
-
-🖥️ Tecnologias e Ferramentas:
-
-- Bancos de Dados: MySQL e PostgreSQL
-- Análise de Dados: Excel, SQL, Pandas ,Numpy e Spark
-- Linguagens de programação: SQL e Python
-- Cloud Computing: Google Cloud Platform (GCP) e AWS
-- Modelagem e Transformação: dbt e Python(polars)
-- Data Lakehouse: GCP 
-- Orquestração de Pipelines: Apache Airflow
+E aí, pessoal! Atualmente, sou engenheira de dados e em busca de maneiras para aprimorar minhas habilidades nessa área de dados. Conto com a minha segunda transição na area de tecnologia. 
 
 
 ## Projetos
@@ -27,7 +13,6 @@ Se der uma olhada nos meus projetos aqui no GitHub, vai encontrar um mix de desa
 - [Projeto 5](https://github.com/thuanyvermelho/projeto_gcp_batch_dataflow_bigquery): Projeto ELT na GCP utilizando Apache beam com Dataflow, Bigquery e Looker Studio.
 - [Projeto 6](https://github.com/thuanyvermelho/projeto_aws_etl_glue): Projeto ETL na AWS utilizando S3, Lambda, Glue + Spark e Athena.
  
-
          
    
 #### 📩 Contatos:
